@@ -1,0 +1,65 @@
+<p>
+  <em
+    ><a href="#" target="_blank"
+      >Share this story.</a
+    ></em
+  >
+</p>
+</td>
+</tr>
+<tr>
+<td
+align="center"
+style="padding: 20px 3.5% 25px 3.5%"
+>
+<a
+  href="#"
+  style="display: inline-block"
+  target="_blank"
+  ><img
+    width="32"
+    height="32"
+    style="border: none"
+    src="https://images.assettype.com/swarajya/2022-05/aaedf48f-16c8-4d79-8db8-d21b6a1bd42d/unnamed__38_.png"
+    alt="Share on Facebook"
+    class="CToWUd"
+/></a>
+<a
+  href=""
+  style="display: inline-block; margin-left: 7px"
+  target="_blank"
+  ><img
+    width="32"
+    height="32"
+    style="border: none"
+    src="https://images.assettype.com/swarajya/2022-05/facfe2fd-9760-452f-b0d8-5f2607923cd2/unnamed__39_.png"
+    alt="Tweet this Story"
+    class="CToWUd"
+/></a>
+<a
+  href=""
+  style="display: inline-block; margin-left: 7px"
+  target="_blank"
+  ><img
+    width="32"
+    height="32"
+    style="border: none"
+    src="https://images.assettype.com/swarajya/2022-05/c955c5ff-78c3-4fbd-97bb-9f20e6ff0718/unnamed__40_.png"
+    alt="Post to LinkedIn"
+    class="CToWUd"
+/></a>
+<a
+  href=""
+  style="display: inline-block; margin-left: 7px"
+  target="_blank"
+  ><img
+    width="32"
+    height="32"
+    style="border: none"
+    src="https://images.assettype.com/swarajya/2022-05/1ec0e191-43ee-4cf2-9e4a-2e43f8782666/unnamed__42_.png"
+    alt="Email this Story"
+    class="CToWUd"
+/></a>
+</td>
+</tr>
+</div>
